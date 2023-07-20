@@ -1,0 +1,7 @@
+Flask
+flask-cors
+langchain
+faiss-cpu
+openai 
+flask-cors
+tiktoken
